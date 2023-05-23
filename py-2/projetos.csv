@@ -1,0 +1,31 @@
+,Projeto,Owner,Link,Criação,Atualização,Descrição,Estrelas
+29,the_silver_searcher,ggreer,https://github.com/ggreer/the_silver_searcher,2011-11-19T19:50:47Z,2023-05-22T19:08:48Z,"A code-searching tool similar to ack, but faster.",24902
+28,jq,stedolan,https://github.com/stedolan/jq,2012-07-18T19:57:25Z,2023-05-22T19:08:57Z,Command-line JSON processor,24936
+27,os-tutorial,cfenollosa,https://github.com/cfenollosa/os-tutorial,2014-09-29T08:39:34Z,2023-05-22T20:38:27Z,How to create an OS from scratch,24973
+26,vaultwarden,dani-garcia,https://github.com/dani-garcia/vaultwarden,2018-02-17T22:40:20Z,2023-05-22T21:47:44Z,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",25171
+25,lapce,lapce,https://github.com/lapce/lapce,2018-02-06T08:41:06Z,2023-05-22T22:12:04Z,Lightning-fast and Powerful Code Editor written in Rust,25533
+24,lede,coolsnowwolf,https://github.com/coolsnowwolf/lede,2017-09-06T07:39:03Z,2023-05-22T17:55:40Z,Lean's LEDE source,26022
+23,swc,swc-project,https://github.com/swc-project/swc,2017-12-22T11:40:14Z,2023-05-22T19:46:50Z,Rust-based platform for the Web,27382
+22,fd,sharkdp,https://github.com/sharkdp/fd,2017-05-09T21:27:10Z,2023-05-22T14:10:57Z,"A simple, fast and user-friendly alternative to 'find'",27526
+21,llama.cpp,ggerganov,https://github.com/ggerganov/llama.cpp,2023-03-10T18:58:00Z,2023-05-22T22:45:30Z,Port of Facebook's LLaMA model in C/C++,27981
+20,tmux,tmux,https://github.com/tmux/tmux,2015-06-03T23:32:55Z,2023-05-22T21:16:47Z,tmux source code,29037
+19,curl,curl,https://github.com/curl/curl,2010-03-18T22:32:22Z,2023-05-22T21:28:28Z,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",30179
+18,ijkplayer,bilibili,https://github.com/bilibili/ijkplayer,2013-06-03T04:12:04Z,2023-05-22T08:21:36Z,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",31391
+17,starship,starship,https://github.com/starship/starship,2019-04-02T03:23:12Z,2023-05-22T22:55:47Z,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",34288
+16,wrk,wg,https://github.com/wg/wrk,2012-03-20T11:12:28Z,2023-05-22T19:29:52Z,Modern HTTP benchmarking tool,34501
+15,awesome-rust,rust-unofficial,https://github.com/rust-unofficial/awesome-rust,2014-07-17T10:45:10Z,2023-05-22T22:26:43Z,A curated list of Rust code and resources.,34699
+14,php-src,php,https://github.com/php/php-src,2011-06-16T01:52:25Z,2023-05-22T20:05:40Z,The PHP Interpreter,35472
+13,FFmpeg,FFmpeg,https://github.com/FFmpeg/FFmpeg,2011-04-14T14:12:38Z,2023-05-22T20:58:01Z,Mirror of https://git.ffmpeg.org/ffmpeg.git,36247
+12,ripgrep,BurntSushi,https://github.com/BurntSushi/ripgrep,2016-03-11T02:02:33Z,2023-05-22T22:46:01Z,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,37954
+11,rustlings,rust-lang,https://github.com/rust-lang/rustlings,2015-09-15T02:25:18Z,2023-05-22T22:26:16Z,:crab: Small exercises to get you used to reading and writing Rust code!,38672
+10,bat,sharkdp,https://github.com/sharkdp/bat,2018-04-21T10:52:23Z,2023-05-22T20:20:22Z,A cat(1) clone with wings.,41281
+9,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk,2020-09-28T15:36:08Z,2023-05-22T22:00:06Z,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,42146
+8,git,git,https://github.com/git/git,2008-07-23T14:21:26Z,2023-05-22T17:54:03Z,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,46307
+7,obs-studio,obsproject,https://github.com/obsproject/obs-studio,2013-10-01T02:40:31Z,2023-05-22T21:04:17Z,OBS Studio - Free and open source software for live streaming and screen recording,47746
+6,Ventoy,ventoy,https://github.com/ventoy/Ventoy,2020-03-10T15:19:19Z,2023-05-22T21:45:32Z,A new bootable USB solution.,49130
+5,Apollo-11,chrislgarry,https://github.com/chrislgarry/Apollo-11,2014-04-03T15:45:02Z,2023-05-22T11:33:39Z,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.,54824
+4,redis,redis,https://github.com/redis/redis,2009-03-21T22:32:25Z,2023-05-22T17:38:13Z,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",59945
+3,netdata,netdata,https://github.com/netdata/netdata,2013-06-17T18:39:10Z,2023-05-22T20:38:23Z,"Real-time performance monitoring, done right! https://www.netdata.cloud",63160
+2,rust,rust-lang,https://github.com/rust-lang/rust,2010-06-16T20:39:03Z,2023-05-22T22:35:17Z,Empowering everyone to build reliable and efficient software.,81744
+1,deno,denoland,https://github.com/denoland/deno,2018-05-15T01:34:26Z,2023-05-22T22:32:00Z,A modern runtime for JavaScript and TypeScript.,89467
+0,linux,torvalds,https://github.com/torvalds/linux,2011-09-04T22:48:12Z,2023-05-22T22:30:45Z,Linux kernel source tree,152040
