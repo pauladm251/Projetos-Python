@@ -25,7 +25,7 @@ def main():
     projeto_df = pd.DataFrame(lista_projetos, columns=['Projeto', 'Owner', 'Link', 'Criação', 'Atualização',
                                                         'Descrição', 'Estrelas'])
     
-    projeto_df.sort_values('Estrelas').to_csv("Projetos_main.csv")
+    projeto_df.sort_values('Estrelas').to_csv("projetos.csv")
 
     # Gráfico com os projetos
     fig = px.bar(projeto_df, x='Projeto', y='Estrelas', title="<b>Projetos do GitHub</b>")
