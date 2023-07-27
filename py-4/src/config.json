@@ -1,0 +1,5 @@
+{
+    "bucket_name"   :"nome-do-bucet-de-destino",
+    "target_folder" :"nome-do-folder-destino",
+    "csv_file_name" :"arquivo.csv"
+}
